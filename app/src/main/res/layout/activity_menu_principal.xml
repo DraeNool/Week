@@ -9,8 +9,7 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/ic_launcher_foreground"
-        app:srcCompat="@android:color/holo_orange_light"
+        android:background="@drawable/fondo_app"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="0dp" />
 
@@ -18,12 +17,14 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/button1"
         android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="94dp"
+        android:layout_marginStart="-4dp"
+        android:layout_marginTop="11dp"
         android:text="WEEDKSS"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
-        android:textSize="24sp"
+        android:textColor="#00507b"
+        android:textSize="40sp"
         tools:layout_editor_absoluteX="137dp"
         tools:layout_editor_absoluteY="42dp" />
 
