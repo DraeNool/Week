@@ -19,8 +19,8 @@
         android:layout_height="wrap_content"
         android:layout_alignStart="@+id/button1"
         android:layout_alignParentTop="true"
-        android:layout_marginStart="-4dp"
-        android:layout_marginTop="11dp"
+        android:layout_marginStart="-2dp"
+        android:layout_marginTop="195dp"
         android:text="WEEDKSS"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textColor="#00507b"
@@ -35,20 +35,21 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="160dp"
-        android:layout_marginEnd="100dp"
+        android:layout_marginTop="363dp"
+        android:layout_marginEnd="98dp"
         android:text="Deteccion de objetos"
         tools:layout_editor_absoluteX="100dp"
         tools:layout_editor_absoluteY="243dp" />
+
     <Button
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:text="contador de personas"
-        android:layout_marginTop="250dp"
-        android:layout_marginEnd="100dp" />
+        android:layout_marginTop="427dp"
+        android:layout_marginEnd="95dp"
+        android:text="contador de personas" />
 
     <Button
         android:id="@+id/button3"
@@ -56,8 +57,8 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="340dp"
-        android:layout_marginEnd="137dp"
+        android:layout_marginTop="489dp"
+        android:layout_marginEnd="133dp"
         android:text="CORTE FONDO" />
 
 
