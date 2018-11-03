@@ -25,17 +25,17 @@
         android:hint="Contraseña"
         android:inputType="textPassword"
         />
+
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="INGRESAR"
         android:layout_gravity="center"
-        />
+        android:text="INGRESAR" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Registrarse"
-        android:textSize="20sp"
         android:layout_gravity="center"
-        />
+        android:text="Registrarse"
+        android:textSize="20sp" />
 </LinearLayout>
