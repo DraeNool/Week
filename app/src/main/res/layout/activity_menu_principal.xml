@@ -57,9 +57,9 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_alignParentEnd="true"
-        android:layout_marginTop="489dp"
-        android:layout_marginEnd="133dp"
-        android:text="CORTE FONDO" />
+        android:layout_marginTop="491dp"
+        android:layout_marginEnd="118dp"
+        android:text="CAMBIO DE FONDO" />
 
 
 
