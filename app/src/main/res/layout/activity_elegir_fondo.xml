@@ -111,4 +111,15 @@
         android:layout_marginEnd="-106dp"
         app:srcCompat="@android:color/white" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="76dp"
+        android:layout_marginBottom="515dp"
+        android:text="SELECCIONE UN FONDO"
+        android:textColor="#ffffff"
+        android:textSize="20dp" />
+
 </RelativeLayout>

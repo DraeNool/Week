@@ -20,7 +20,8 @@
         <activity android:name=".DeteccionObjetosActivity" />
         <activity android:name=".ContadorPersonasActivity" />
         <activity android:name=".CambioFondoActivity" />
-        <activity android:name=".ElegirFondoActivity"></activity>
+        <activity android:name=".ElegirFondoActivity" />
+        <activity android:name=".NuevoFondoActivity"></activity>
     </application>
 
 </manifest>
