@@ -19,7 +19,8 @@
         <activity android:name=".MenuPrincipalActivity" />
         <activity android:name=".DeteccionObjetosActivity" />
         <activity android:name=".ContadorPersonasActivity" />
-        <activity android:name=".CambioFondoActivity"></activity>
+        <activity android:name=".CambioFondoActivity" />
+        <activity android:name=".ElegirFondoActivity"></activity>
     </application>
 
 </manifest>
